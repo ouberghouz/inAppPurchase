@@ -1,0 +1,44 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "60F5250E",
+      "localizations" : [
+        {
+          "description" : "Remove ADS",
+          "displayName" : "Remove ADS",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.pdt.removeAds",
+      "referenceName" : "Remove ADS",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.49",
+      "familyShareable" : false,
+      "internalID" : "FA4BB0BA",
+      "localizations" : [
+        {
+          "description" : "get 30 GEMS",
+          "displayName" : "get Gems",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.pdt.subscribe",
+      "referenceName" : "getGems",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
